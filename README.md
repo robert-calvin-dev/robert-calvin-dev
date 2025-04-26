@@ -38,7 +38,7 @@ Further down the line, I aim to become a **Business-Focused AI Specialist** — 
 ---
 
 ### 🔍 View My Work  
-- **Portfolio:** [Visit My Online Portfolio](https://robert-calvin-dev.github.io/portfolio/index.html)  
+- **Portfolio:** [Visit My Online Portfolio](https://robert-calvin-dev.github.io/portfolio)  
 - **📄 Resume:** [View My Resume](https://www.canva.com/design/DAGj39bTAbc/hGjmIK2Ti9gGav9xXCP6MA/view?utm_content=DAGj39bTAbc&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h9f94c128a2)  
 - **🔗 LinkedIn:** [Find Me on LinkedIn](https://www.linkedin.com/in/robert-mitchell-694207316)
 
